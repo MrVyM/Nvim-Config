@@ -42,7 +42,6 @@ require("lazy").setup({
 				"gzip",
 				-- "matchit",
 				-- "matchparen",
-				"luarocks",
 				-- "netrwPlugin",
 				"tarPlugin",
 				"tohtml",

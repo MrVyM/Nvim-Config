@@ -188,6 +188,7 @@ return {
 			cobol_ls = {},
 			dockerls = {},
 			cmake = {},
+			terraformls = {},
 			clangd = {
 				settings = {
 					["clangd"] = {
