@@ -1,0 +1,26 @@
+{
+    "Starter Template": {
+        "prefix": "st",
+        "body": [
+          "---",
+          "id: $0", 
+          "title: $1",
+          "description: $2",
+          "slug: /$3",
+          "sidebar_label: $4",
+          "keywords:",
+          "- $5",
+          "tags:",
+          "- $6",
+          "hide_title: false",
+          "date: $7",
+          "---"
+        ],
+      "description": "Standard starter template for a blog"
+    },
+    "Truncate": {
+      "prefix": "tr",
+      "body": ["<!-- truncate --> $0"],
+      "description": "Docs truncate balise"
+    }
+}

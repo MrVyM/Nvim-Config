@@ -5,6 +5,10 @@
       {
         "language": [ "c", "cpp" ],
         "path": "./c.json"
+      }, 
+      {
+        "language": [ "markdown" ],
+        "path": "./md.json"
       }
     ]
   }
